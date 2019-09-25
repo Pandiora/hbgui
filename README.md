@@ -16,6 +16,10 @@ Features
 - Detecting meta data (1 approach to detect broken files)
 - Easy to be accessed data storage (sqlite db)
 
+Screenshots
+===================
+<img src="./img/screenshots/settings.png" width="auto" height="500">
+
 Dependencies
 ===================
 - ffmpeg
